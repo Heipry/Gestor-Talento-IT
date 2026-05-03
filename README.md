@@ -16,4 +16,4 @@ Desarrollo de un sistema de gestión de nóminas para una consultora tecnológic
 - `GestionNominas`: Clase principal (Main) con el flujo de interacción.
 
 ## 👤 Autor
-Javier Díaz - Estudiante de Programación Java en Adams.
+Javier Díaz - Docente de Programación Java en Adams.
